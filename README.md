@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://samueleamato.xyz">
-<div align=center>
+<div align="center">
   https://samueleamato.xyz
 </div>
 </a>
