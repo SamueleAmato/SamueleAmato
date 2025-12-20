@@ -2,13 +2,13 @@
 <div align="center">
   <img src="images/welcome.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
-  <h6>I'm rdWei, I enjoy working with Rust, C, and all kinds of low-level stuff</h6>
+  <h6>I'm SamueleAmato, I enjoy working with Rust, C, and all kinds of low-level stuff</h6>
   <br />
   <br />
 </div>
 <br>
 
-<a href="https://bsky.app/profile/rdwei.bsky.social">
+<a href="https://bsky.app/profile/SamueleAmato.bsky.social">
 <div align=center>
   <img src="https://img.shields.io/badge/-Follow Me on Bluesky !!!-blue?logo=bluesky&style=social">
 </div>
@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td><a href="https://samueleamato.xyz" target="_blank">Personal Website</a></td>
-    <td><a href="https://t.me/rdwei" target="_blank">Find me on Telegram</a></td>  
+    <td><a href="https://t.me/SamueleAmato" target="_blank">Find me on Telegram</a></td>  
 
   </tr>
   
@@ -35,5 +35,5 @@
 <br>
 
 <div align=center>
-  <img src="https://img.shields.io/github/stars/rdwei?affiliations=OWNER&style=social">
+  <img src="https://img.shields.io/github/stars/SamueleAmato?affiliations=OWNER&style=social">
 </div>

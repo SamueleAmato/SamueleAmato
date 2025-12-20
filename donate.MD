@@ -11,5 +11,5 @@
 | Polkadot (DOT) | `12rp9EorchDLdY5wwAPcK7hSCi36kj74djBaLnanfNaXANbZ` |
 
 <div>
-<a href="https://buymeacoffee.com/rdwei"><img src="https://img.shields.io/badge/Buy me a coffee-FFDD00?style=for-the-badge&logo=BuyMeACoffee&logoColor=black"></a>
+<a href="https://buymeacoffee.com/SamueleAmato"><img src="https://img.shields.io/badge/Buy me a coffee-FFDD00?style=for-the-badge&logo=BuyMeACoffee&logoColor=black"></a>
 </div>
