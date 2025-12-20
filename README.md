@@ -8,28 +8,13 @@
 </div>
 <br>
 
-<a href="https://bsky.app/profile/SamueleAmato.bsky.social">
+<a href="https://samueleamato.xyz">
 <div align=center>
-  <img src="https://img.shields.io/badge/-Follow Me on Bluesky !!!-blue?logo=bluesky&style=social">
+  https://samueleamato.xyz
 </div>
 </a>
 
 <br>
-<br>
-<br>
-
-<table align="center">
-  <tr>
-    <th><img src="images/shybo.gif" alt="Animated GIF" width="100" height="100" /></th>
-    <th><img src="images/nokia.gif" alt="WebP Image 1" width="120" height="120" /></th>
-  </tr>
-  <tr>
-    <td><a href="https://samueleamato.xyz" target="_blank">Personal Website</a></td>
-    <td><a href="https://t.me/SamueleAmato" target="_blank">Find me on Telegram</a></td>  
-
-  </tr>
-  
-</table>
 
 <br>
 <br>
